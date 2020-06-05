@@ -13,6 +13,7 @@ module.exports = {
     useNullAsDefault: true,
   },
 
+<<<<<<< HEAD
   test: {
     client: 'sqlite3',
     connection: {
@@ -24,6 +25,8 @@ module.exports = {
     useNullAsDefault: true,
   },
 
+=======
+>>>>>>> db0dde8af03af4d0da7352992730d8c103a14e5f
   staging: {
     client: 'postgresql',
     connection: {
